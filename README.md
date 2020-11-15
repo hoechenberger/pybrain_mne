@@ -1,7 +1,7 @@
 
 ![MNE-Python Logo](https://mne.tools/stable/_static/mne_logo.svg "MNE-Python")
 
-# Pybrain 2020: M/EEG analysis with MNE Python
+# Pybrain 2020: M/EEG analysis with MNE-Python
 
 ## Preparations
 
