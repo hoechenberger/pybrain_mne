@@ -83,7 +83,7 @@ We will work with some sample data that can be easily retrieved via MNE-Python. 
 
 ```
 conda activate mne
-python -c 'import mne; mne.datasets.sample.data_path()'
+python -c "import mne; mne.datasets.sample.data_path()"
 ```
 This will retrieve about 1.5 GB of data, so it might take a while if your internet connection is slow.
 
